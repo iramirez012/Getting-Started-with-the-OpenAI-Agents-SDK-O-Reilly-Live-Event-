@@ -3,3 +3,6 @@ This course teaches you to build end‑to‑end agent applications with the Open
 https://github.com/EnkrateiaLucca/oreilly-openai-agents-sdk/commits?author=EnkrateiaLucca
 
 https://www.automatalearninglab.com/
+
+
+https://app.excalidraw.com/l/4D8OQc5LBGo/AqgJNdWzX0X
